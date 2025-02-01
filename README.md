@@ -37,10 +37,3 @@
 | **Bootstrap** | Responsive UI design |
 
 ---
-
-## 🚀 Installation & Setup
-
-1️⃣ **Clone the repository**  
-```sh
-git clone https://github.com/your-username/Suspicious-Activity-Detection.git
-cd Suspicious-Activity-Detection
